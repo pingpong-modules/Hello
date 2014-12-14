@@ -2,10 +2,10 @@
 	"name": "pingpong-modules/hello",
 	"description": "Hello module. Just for test",
 	"license": "MIT",
-	"author": [
+	"authors": [
 		{
 			"name": "Pingpong Labs",
-			"email": "http://pingpong.web.id"
+			"email": "pingpong.labs@gmail.com"
 		}
 	],
 	"autoload": {
