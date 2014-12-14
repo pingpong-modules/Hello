@@ -1,0 +1,11 @@
+{
+	"name": "pingpong-modules/hello",
+	"description": "Hello module. Just for test",
+	"license": "MIT",
+	"author": [
+		{
+			"name": "Pingpong Labs",
+			"email": "http://pingpong.web.id"
+		}
+	]
+}
