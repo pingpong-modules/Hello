@@ -7,5 +7,10 @@
 			"name": "Pingpong Labs",
 			"email": "http://pingpong.web.id"
 		}
-	]
+	],
+	"autoload": {
+		"psr-4": {
+			"Modules\\Hello\\": ""
+		}
+	}
 }
